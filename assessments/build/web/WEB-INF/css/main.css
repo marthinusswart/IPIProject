@@ -1,0 +1,266 @@
+A{
+	color:#218821;
+	text-decoration: none;
+}
+A:hover{
+	color:#F22;
+	text-decoration: none;	
+}
+
+BODY{
+    color: black;
+    font-family: helvetica, arial, sans-serif;
+    font-size: 10pt;
+    background-color: white;
+    margin: 0 0 0 0;
+}
+
+TD{
+	vertical-align:top;
+	color: black;
+	font-family: helvetica, arial, sans-serif;
+	font-size: 10pt;
+}
+
+UL{
+	list-style-image:url(../images/gl_gr.gif);
+}
+LI{
+    FONT-SIZE: 10pt;
+    COLOR: #000;
+    FONT-FAMILY: helvetica, arial, sans-serif;
+    text-align:justify;
+    margin-top:5px;
+}LI UL{list-style-image:url(../images/sdi_gr.gif);}
+
+OL{	list-style:decimal;}
+
+
+.emph{
+	font-size:11pt;
+	font-style:italic;
+}.emph LI{list-style-image:url(../images/40-99-20.gif)}
+
+
+H2{
+    FONT-SIZE: 19pt;
+    color:#273;
+    FONT-FAMILY: Arial, Sans-serif;
+    padding: 0 0 0 0;
+    margin: 15px 0 5px 0;
+}
+
+H3{
+    color:#173;
+    font-weight:bold;
+    font-size:14pt;
+}
+
+H4{
+    FONT-SIZE: 11pt;
+    color:#373;
+}
+
+H5{
+	font-size:10pt;
+	color:#373;
+	padding:0;
+	margin-bottom:5px;
+	margin-top:25px;
+}
+
+P{
+	text-align:justify;
+}
+
+FORM{
+	padding:0;
+	margin:0;
+}
+
+/*
+div.MenuBar{
+	background-color:#215E21;
+	height:27px;
+}
+*/
+
+/* ------- Main Layout ------- */
+div.loggedinmsg{
+	position:absolute;
+	top:150px;
+	left:6px;
+	font-size:9px;
+	color:#AC6;
+}span.loggedinusr{
+	color:#FFF;
+}
+
+
+div.navLinkBar{
+	margin-top:10px;
+	padding: 30px 0 20px 3px;
+	height: 100%;
+	width: 132px;}
+div.navLinkBar A{
+	color: #185018;}
+div.navLinkBar A:hover{
+	color: #EFE;
+}table.navBlok{
+	 border-collapse:collapsed;
+	 width:125px;
+}td.navLinkCell {
+	background-color:#8A4;
+	font-weight: bold;
+	font-size: 8pt;
+	font-family: helvetica, arial, sans-serif;
+	text-align: left;
+	padding-left:10px;
+	padding-right:5px;
+}td.nlc2 a{
+	font-weight:normal;
+	color:#053605;
+}
+
+
+div.mainContent{
+	padding: 10px 10px 20px 10px;
+	
+}
+
+div.sbR{
+	width:190px;
+	border:1px solid #215e21;
+	background-color: #ddffc7;
+	padding: 3px 3px 3px 3px;
+	margin:35px 10px 0 10px;
+	font-family: helvetica, arial, sans-serif;
+	font-size:12px;
+	text-align:left;
+}div.sbRTitle{
+	background-color:#AC6;
+	padding: 2px 2px 2px 2px;
+	border:1px solid #215e21;
+}div.sbRContent{
+	padding: 10px 0 0 0;
+}div.sbRDate{
+	font-weight:bold;
+	font-style:italic;
+	color:#215E21;
+}
+
+div.scrollMsgBar{
+	margin: 25px 0 40px;
+	height:25px;
+}div.brBarR{
+	float:right;
+	font-size:20px;
+}div.brBarL{
+	float:left;
+	font-size:20px;
+}div.scroller{
+	width:172px;
+	float:left;
+	margin-top:4px;
+	font-size:13px;
+}div.scroller A{
+	color:#215E21;
+	text-decoration: none;
+}div.scroller A:hover{
+	color:#F22;
+	text-decoration: none;	
+}
+
+
+.footer{
+	font-family: helvetica, arial, sans-serif;
+	font-size: 9px;
+	color: #000;
+	background-color: #7B9C41;
+	text-align: right;
+	padding-right:5px;
+	border-top:1px solid #FFF;
+}
+
+
+/* ------- misc small ------- */
+
+div.err{
+	color:#F00;
+}
+div.success{
+	color:#273;
+}	
+div.info_sm{
+	color:#185018;
+	font-size:9pt;
+}
+
+span.err{
+	color:#F00;
+}
+span.success{
+	color:#273;
+}	
+
+.green1{	color:#273;}
+.green2{	color:#215E21;}
+.green3{ color:#8A4}
+
+
+/* ------- web-app UI ------- */
+.btnBar{
+	width:326px;
+	height: 50px;
+	border:1px solid black;
+	padding: 3px 3px 0 3px;
+	font-size:8pt;
+}
+.btnBTitle{
+	border:1px solid #777;
+	background-color:#ccc;
+	padding: 3px 3px 3px 3px;
+	margin-bottom: 3px;
+}
+
+.btn2{
+	width:60px;
+	font-size:8pt;
+}	
+.btn1{
+	width:120px;
+	font-size:8pt;
+}
+.rButtons{
+	float:right;
+}
+
+.txt1{ width:200px;}
+.txt2{ width:400px;}
+.txt3{ width:100px;}
+
+div.smBtn{
+	float:left;
+	border:1px solid #444;
+	width:10px;
+	height:11px;
+	font-size:8px;
+	text-align:center;}
+div.smBtn A{
+	display:block;
+	width:10px;
+	height:11px;
+	text-align:center;
+	vertical-align:middle;
+	color: #444;
+	background-color:#bbb;}
+div.smBtn A:hover{
+	width:10px;
+	height:11px;
+	text-align:center;
+	vertical-align:middle;
+	color: #000;
+	background-color:#777;
+}
+
+/* IE Hacks*/

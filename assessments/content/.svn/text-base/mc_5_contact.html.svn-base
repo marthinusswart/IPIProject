@@ -1,0 +1,56 @@
+<script type='text/javascript' src="script/client/mc5.js"></script>
+
+<h2>Contact Us</h2>
+<p>
+Please forward us all your requests, questions or comments.
+</p>
+
+<hr>
+<h3>Send us a Message</h3>
+<form action="index.jsp"method='post'>
+<table>
+	<tr>
+		<td>Your E-Mail address:</td>
+		<td><input type="text" name="mailfrom" id="mailFrom" size="30" maxlength="50"></td>
+	</tr>
+	<tr>
+		<td>Your Name:</td>
+		<td><input type="text" name="name" id="Name" size="30" maxlength="50"></td>
+	</tr>
+	<tr>
+		<td>What are you contacting us about?:</td>
+		<td>
+			<select name="target">
+            	<option value="0">Request General Information</option>
+         		<option value="1">Sales Specific Query</option>
+         		<option value="2">Customer Support</option>
+         </select>
+		</td>
+	</tr>
+</table>
+<br>
+<textarea name="msgbox" id="msgBox" onfocus="msgbox_Focus()" onblur="msgbox_Blur()" rows="8" cols="50">[type your message here]</textarea>
+<br><br>
+<input value="    Send    " type="submit" onclick="return send_Click();" />
+
+<input type='hidden' name='pg' value="51" />
+</form>
+
+<hr>
+<h3>Other Contact Details</h3>
+
+<table>
+	<tr>
+    	<td><strong>Web :</strong></td>
+    	<td><a href="http://www.functionalintelligence.com">www.functionalintelligence.com</a></td>
+    </tr>
+    <tr>
+    	<td><strong>Telephone :</strong></td>
+    	<td>South Africa&nbsp;&nbsp;&nbsp;&nbsp;+27 82 8805820</td>
+    </tr>
+    <tr>
+    	<td><strong>&nbsp;</strong></td>
+    	<td>New Zealand&nbsp;&nbsp;&nbsp;+64 210 2431963</td>
+    </tr>
+   
+</table>

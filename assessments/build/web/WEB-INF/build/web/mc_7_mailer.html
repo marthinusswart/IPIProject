@@ -1,0 +1,36 @@
+	<h2>Send E-Mail</h2>
+	
+   <form name="emailSendForm" action="index.jsp" method="POST">
+      <table border="0" cellpadding="2" width="90%">
+          <tr>
+              <td width="10%"><strong>From</strong></td>
+              <td width="50%"><input type="text" size="80" name="FromBox"></td>
+          </tr>
+          <tr>
+              <td width="10%"><strong>To</strong></td>
+              <td width="50%"><input type="text" size="80" name="ToBox"></td>
+          </tr>
+          <tr>
+              <td width="10%"><strong>CC</strong></td>
+              <td width="50%"><input type="text" size="80" name="CcBox"></td>
+          </tr>
+          <tr>
+              <td width="10%"><strong>BCC</strong></td>
+              <td width="50%"><input type="text" size="80" name="BccBox"></td>
+          </tr>
+          <tr>
+              <td width="10%"><strong>Subject</strong></td>
+              <td width="50%"><input type="text" size="80" name="SubjectBox"></td>
+          </tr>
+          <tr>
+              <td width="100%" colspan="2">
+              		<textarea name="BodyBox" rows="15" cols="80"></textarea>
+              </td>
+          </tr>
+      </table>
+   
+      <p align="center"> <input type="submit" name="SubmitButton" value="Send Mail"></p>
+      
+      <input type='hidden' name='pg' value="71" />
+      
+   </form>

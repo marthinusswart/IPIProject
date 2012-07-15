@@ -1,0 +1,69 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 21
+/svn/source/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/source/!svn/ver/110/IPIProject/assessments
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/source/!svn/ver/3/IPIProject/assessments/.classpath
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/source/!svn/ver/3/IPIProject/assessments/index.jsp
+END
+test.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/source/!svn/ver/3/IPIProject/assessments/test.html
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/source/!svn/ver/3/IPIProject/assessments/.project
+END
+.tomcatplugin
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/source/!svn/ver/3/IPIProject/assessments/.tomcatplugin
+END
+test.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/source/!svn/ver/3/IPIProject/assessments/test.jsp
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/source/!svn/ver/3/IPIProject/assessments/web.xml
+END
+iframeversion.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/source/!svn/ver/73/IPIProject/assessments/iframeversion.html
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/source/!svn/ver/3/IPIProject/assessments/build.xml
+END
+contactus.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/source/!svn/ver/87/IPIProject/assessments/contactus.jsp
+END

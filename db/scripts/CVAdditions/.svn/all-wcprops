@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/source/!svn/ver/45/IPIProject/db/scripts/CVAdditions
+END
+tests.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/source/!svn/ver/37/IPIProject/db/scripts/CVAdditions/tests.sql
+END
+cvtables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/source/!svn/ver/45/IPIProject/db/scripts/CVAdditions/cvtables.sql
+END
+careers.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/source/!svn/ver/36/IPIProject/db/scripts/CVAdditions/careers.sql
+END
+marketsegments.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/source/!svn/ver/36/IPIProject/db/scripts/CVAdditions/marketsegments.sql
+END
+employmentstatus.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/source/!svn/ver/36/IPIProject/db/scripts/CVAdditions/employmentstatus.sql
+END

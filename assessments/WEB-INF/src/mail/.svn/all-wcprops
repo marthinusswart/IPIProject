@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/source/!svn/ver/3/IPIProject/assessments/WEB-INF/src/mail
+END
+SendMultipartMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/source/!svn/ver/3/IPIProject/assessments/WEB-INF/src/mail/SendMultipartMessage.java
+END
+MailSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/source/!svn/ver/3/IPIProject/assessments/WEB-INF/src/mail/MailSender.java
+END
+EmailContents.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/source/!svn/ver/3/IPIProject/assessments/WEB-INF/src/mail/EmailContents.java
+END

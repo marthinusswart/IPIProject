@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/source/!svn/ver/26/IPIProject/assessments/WEB-INF/lib
+END
+mailapi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/source/!svn/ver/3/IPIProject/assessments/WEB-INF/lib/mailapi.jar
+END
+postgresql-8.0-311.jdbc3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/source/!svn/ver/3/IPIProject/assessments/WEB-INF/lib/postgresql-8.0-311.jdbc3.jar
+END
+activation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/source/!svn/ver/3/IPIProject/assessments/WEB-INF/lib/activation.jar
+END
+log4j-1.2.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/source/!svn/ver/26/IPIProject/assessments/WEB-INF/lib/log4j-1.2.16.jar
+END
+smtp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/source/!svn/ver/3/IPIProject/assessments/WEB-INF/lib/smtp.jar
+END

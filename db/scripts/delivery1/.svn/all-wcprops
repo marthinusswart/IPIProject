@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/source/!svn/ver/3/IPIProject/db/scripts/delivery1
+END
+users.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/source/!svn/ver/3/IPIProject/db/scripts/delivery1/users.sql
+END
+answers.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/source/!svn/ver/3/IPIProject/db/scripts/delivery1/answers.sql
+END
+q_sc_entry.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/source/!svn/ver/3/IPIProject/db/scripts/delivery1/q_sc_entry.sql
+END
+qsce_c_exclude.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/source/!svn/ver/3/IPIProject/db/scripts/delivery1/qsce_c_exclude.sql
+END
+superConstructs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/source/!svn/ver/3/IPIProject/db/scripts/delivery1/superConstructs.sql
+END
+constructs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/source/!svn/ver/3/IPIProject/db/scripts/delivery1/constructs.sql
+END
+assignment.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/source/!svn/ver/3/IPIProject/db/scripts/delivery1/assignment.sql
+END
+qre_type.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/source/!svn/ver/3/IPIProject/db/scripts/delivery1/qre_type.sql
+END
+questionaire.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/source/!svn/ver/3/IPIProject/db/scripts/delivery1/questionaire.sql
+END
+wording.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/source/!svn/ver/3/IPIProject/db/scripts/delivery1/wording.sql
+END
+default_questionnaire.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/source/!svn/ver/3/IPIProject/db/scripts/delivery1/default_questionnaire.sql
+END
+questions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/source/!svn/ver/3/IPIProject/db/scripts/delivery1/questions.sql
+END
+v_qna_view.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/source/!svn/ver/3/IPIProject/db/scripts/delivery1/v_qna_view.sql
+END

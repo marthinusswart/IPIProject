@@ -1,0 +1,9 @@
+compile.on.save=true
+do.depend=false
+do.jar=true
+file.reference.mailapi.jar=C:\\IPIProject\\assessments\\WEB-INF\\lib\\mailapi.jar
+file.reference.smtp.jar=C:\\IPIProject\\assessments\\WEB-INF\\lib\\smtp.jar
+javac.debug=false
+javadoc.preview=true
+jaxbwiz.endorsed.dirs=C:\\Program Files\\NetBeans 6.8\\ide12\\modules\\ext\\jaxb\\api
+user.properties.file=C:\\Documents and Settings\\Administrator\\.netbeans\\6.8\\build.properties

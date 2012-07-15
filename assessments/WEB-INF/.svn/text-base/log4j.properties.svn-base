@@ -1,0 +1,15 @@
+### direct log messages to file ###
+log4j.appender.FileLog=org.apache.log4j.RollingFileAppender
+log4j.appender.FileLog.maxFileSize=50KB
+log4j.appender.FileLog.maxBackupIndex=5
+log4j.appender.FileLog.File=functionalintelligence.log
+log4j.appender.FileLog.layout=org.apache.log4j.PatternLayout
+log4j.appender.FileLog.layout.ConversionPattern=%d{dd MMM yyyy HH:mm:ss} %5p %c{1} - %m%n
+log4j.rootLogger=debug, FileLog
+
+### direct log messages to stdout ###
+#log4j.appender.stdout=org.apache.log4j.ConsoleAppender
+#log4j.appender.stdout.Target=System.out
+#log4j.appender.stdout.layout=org.apache.log4j.PatternLayout
+#log4j.appender.stdout.layout.ConversionPattern=%d{ABSOLUTE} %5p %c{1}:%L - %m%n
+#log4j.rootLogger=debug, stdout

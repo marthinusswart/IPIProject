@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/source/!svn/ver/108/IPIProject/assessments/WEB-INF/src/beans
+END
+LiveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/source/!svn/ver/32/IPIProject/assessments/WEB-INF/src/beans/LiveTest.java
+END
+Resume.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/source/!svn/ver/88/IPIProject/assessments/WEB-INF/src/beans/Resume.java
+END
+Customer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/source/!svn/ver/97/IPIProject/assessments/WEB-INF/src/beans/Customer.java
+END
+Career.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/source/!svn/ver/35/IPIProject/assessments/WEB-INF/src/beans/Career.java
+END
+SuperConstruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/source/!svn/ver/33/IPIProject/assessments/WEB-INF/src/beans/SuperConstruct.java
+END
+AutoRegUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/source/!svn/ver/101/IPIProject/assessments/WEB-INF/src/beans/AutoRegUser.java
+END
+AutoRegResumeReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/source/!svn/ver/88/IPIProject/assessments/WEB-INF/src/beans/AutoRegResumeReference.java
+END
+MarketSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/source/!svn/ver/35/IPIProject/assessments/WEB-INF/src/beans/MarketSegment.java
+END
+OrgTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/source/!svn/ver/3/IPIProject/assessments/WEB-INF/src/beans/OrgTree.java
+END
+Question.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/source/!svn/ver/3/IPIProject/assessments/WEB-INF/src/beans/Question.java
+END
+Assignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/source/!svn/ver/72/IPIProject/assessments/WEB-INF/src/beans/Assignment.java
+END
+Questionaire.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/source/!svn/ver/93/IPIProject/assessments/WEB-INF/src/beans/Questionaire.java
+END
+ReportCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/source/!svn/ver/3/IPIProject/assessments/WEB-INF/src/beans/ReportCategory.java
+END
+Report.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/source/!svn/ver/104/IPIProject/assessments/WEB-INF/src/beans/Report.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/source/!svn/ver/113/IPIProject/assessments/WEB-INF/src/beans/User.java
+END
+SessionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/source/!svn/ver/3/IPIProject/assessments/WEB-INF/src/beans/SessionManager.java
+END
+ResumeReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/source/!svn/ver/88/IPIProject/assessments/WEB-INF/src/beans/ResumeReference.java
+END
+Construct.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/source/!svn/ver/33/IPIProject/assessments/WEB-INF/src/beans/Construct.java
+END
+QandA.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/source/!svn/ver/3/IPIProject/assessments/WEB-INF/src/beans/QandA.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/source/!svn/ver/27/IPIProject/assessments/WEB-INF/src/beans/Address.java
+END
+Advert.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/source/!svn/ver/27/IPIProject/assessments/WEB-INF/src/beans/Advert.java
+END
+DBProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/source/!svn/ver/3/IPIProject/assessments/WEB-INF/src/beans/DBProxy.java
+END
+AutoRegResume.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/source/!svn/ver/88/IPIProject/assessments/WEB-INF/src/beans/AutoRegResume.java
+END
+Err.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/source/!svn/ver/3/IPIProject/assessments/WEB-INF/src/beans/Err.java
+END
+QreType.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/source/!svn/ver/3/IPIProject/assessments/WEB-INF/src/beans/QreType.java
+END
+ReportsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/source/!svn/ver/111/IPIProject/assessments/WEB-INF/src/beans/ReportsManager.java
+END
+EmploymentStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/source/!svn/ver/35/IPIProject/assessments/WEB-INF/src/beans/EmploymentStatus.java
+END

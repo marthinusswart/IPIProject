@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/source/!svn/ver/110/IPIProject/assessments/WEB-INF
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/source/!svn/ver/3/IPIProject/assessments/WEB-INF/manifest.mf
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/source/!svn/ver/87/IPIProject/assessments/WEB-INF/log4j.properties
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/source/!svn/ver/87/IPIProject/assessments/WEB-INF/web.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/source/!svn/ver/81/IPIProject/assessments/WEB-INF/build.xml
+END

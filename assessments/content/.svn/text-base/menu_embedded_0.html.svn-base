@@ -1,0 +1,22 @@
+<script type="text/javascript">
+    menuInitialize(true);
+</script>
+
+<div class='embeddedmenubar'>
+    <!-- Main Menus -->
+    
+    
+
+    <div class='embeddedmmenu' onclick="mmenu_Click(this, 6)" onmouseover="mmenu_MOver(this);" onmouseout="mmenu_MOut(this);"
+         >FAQ
+    </div>
+
+    <div class='embeddedmmenu' onclick="mmenu_Click(this, -1)" onmouseover="mmenu_MOver(this);" onmouseout="mmenu_MOut(this);"
+         style="font-style:italic;margin-left:20px;"
+         >Login
+    </div>
+
+    <form name='menuNav' action="index.jsp" method="post">
+        <input id='menuPg' name='pg' type='hidden' value="">
+    </form>
+</div>

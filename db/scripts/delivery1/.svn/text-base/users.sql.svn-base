@@ -1,0 +1,12 @@
+﻿INSERT INTO users VALUES (2,0,1,'ipiAdmin','1p1@dm1n','I','Neil','Whitehouse','Dr.',' ',' ',' ',' ',' ',' ',' ','www.fqinstitute.com');
+INSERT INTO users VALUES (3,0,2,'ipiOrg','1p10rg','I','No','Reply','Mr.',' ','IPI Group',' ','(000) 000 0000',' ',' ','neil@fqglobal.com','www.fqinstitute.com');
+INSERT INTO users VALUES (4,0,3,'NeilW','lrORPW','N','Neil','Whitehouse','Mr.',' ',' ',' ',' ',' ',' ','info@fqinstitute.com',' ');
+INSERT INTO users VALUES (5,0,3,'neilipi','NI3F8u','N','Neil','Whitehouse','Dr.','420228','ipi002','0123357124','0126531555','0126531847','0836809881','neil@fqinstitute.com',' ');
+INSERT INTO users VALUES (6,0,3,'johannesl','oVdXJ5Y',' ','Johannes','Lombaard','Mr.',' ',' ',' ',' ',' ','0832906383','johannesl@feathertechnologies.com',' ');
+INSERT INTO users VALUES (7,0,3,'marthinus','ms2','M','Marthinus','Swart','Mr.',' ','IPI30',' ',' ',' ',' ','marthinus.swart@gmail.com',' ');
+INSERT INTO users VALUES (8,0,3,'assessmenta','assessmenta','A','AssessmentA','Test','Mr.',' ','IPI30',' ',' ',' ',' ','assessmenta@gmail.com',' ');
+INSERT INTO users VALUES (9,0,3,'assessmentb','assessmentb','B','AssessmentB','Test','Mr.',' ','IPI30',' ',' ',' ',' ','assessmentb@gmail.com',' ');
+INSERT INTO users VALUES (10,0,3,'assessmentc','assessmentc','C','AssessmentC','Test','Mr.',' ','IPI30',' ',' ',' ',' ','assessmentc@gmail.com',' ');
+INSERT INTO users VALUES (11,0,3,'assessmentd','assessmentd','D','AssessmentD','Test','Mr.',' ','IPI30',' ',' ',' ',' ','assessmentd@gmail.com',' ');
+INSERT INTO users VALUES (12,0,3,'assessmente','assessmente','E','AssessmentE','Test','Mr.',' ','IPI30',' ',' ',' ',' ','assessmente@gmail.com',' ');
+INSERT INTO users VALUES (13,0,3,'assessmentf','assessmentf','F','AssessmentF','Test','Mr.',' ','IPI30',' ',' ',' ',' ','assessmentf@gmail.com',' ');

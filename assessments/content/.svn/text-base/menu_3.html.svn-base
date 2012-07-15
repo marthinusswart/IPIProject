@@ -1,0 +1,13 @@
+<div class='menubar'>
+	<!-- Main Menus -->
+	<div class='mmenu mmenuLonerL' onclick="mmenu_Click(this, -11)" onmouseover="mmenu_MOver(this);" onmouseout="mmenu_MOut(this);"
+		><b>Logout</b></div>
+		
+	<div class='mmenu mmenuAlt' onclick="mmenu_Click(this, -50)" onmouseover="mmenu_MOver(this);" onmouseout="mmenu_MOut(this);"
+		>&nbsp;Assessments </div>
+
+		
+	<form name='menuNav' action="index.jsp" method="post">
+		<input id='menuPg' name='pg' type='hidden' value="">
+	</form>
+</div>		

@@ -1,0 +1,79 @@
+<POLICIES xmlns="http://www.w3.org/2002/01/P3Pv1">
+       <POLICY 
+	   discuri="/w3c/policies/humanReadable/humanreadable_FunctionalIntelligencePolicy_FunctionalIntelligencePolicy.html" 
+	   name="FunctionalIntelligencePolicy" 
+	   opturi="/contactus.jsp">         
+	   <ENTITY>
+	   <DATA-GROUP xmlns="http://www.w3.org/2002/01/P3Pv1">           
+	   <DATA ref="#business.name">FQGlobal</DATA>             
+	   <DATA ref="#business.contact-info.postal.name.given">Neil</DATA>    
+	   <DATA ref="#business.contact-info.postal.name.family">Whitehouse</DATA>   
+	   <DATA ref="#business.contact-info.postal.street">1B Limmer Place</DATA>      
+	   <DATA ref="#business.contact-info.postal.city">North Shore City</DATA>      
+	   <DATA ref="#business.contact-info.postal.stateprov">Auckland </DATA>       
+	   <DATA ref="#business.contact-info.postal.postalcode">0632</DATA>         
+       <DATA ref="#business.contact-info.postal.country">New Zealand</DATA>    
+	   <DATA ref="#business.contact-info.online.email">support@fqglobal.com</DATA>   
+	   <DATA ref="#business.contact-info.telecom.telephone.intcode">64</DATA>        
+	   <DATA ref="#business.contact-info.telecom.telephone.loccode">9</DATA>       
+	   <DATA ref="#business.contact-info.telecom.telephone.number">4767061 </DATA>  
+	   </DATA-GROUP>         
+	   <!--<EXTENSION>            
+	   <DATA-GROUP xmlns="http://www.w3.org/2004/02/P3Pv11">        
+	   <datatype xmlns="http://www.w3.org/2002/01/BDSP3Pv1.1">     
+	   <business>               
+	   <orgname>FQGlobal</orgname>             
+	   <contact-info>                     
+       <postal>                    
+	   <name>                    
+	   <given>Neil</given>      
+	   <family>Whitehouse</family>  
+	   </name>                       
+	   <street>1B Limmer Place</street>     
+	   <city>North Shore City</city>       
+	   <stateprov>Auckland </stateprov>    
+	   <postalcode>0632</postalcode>       
+	   <country>New Zealand</country>      
+	   </postal>                          
+	   <online>                      
+	   <email>support@fqglobal.com</email>   
+	   </online>                   
+	   <telecom>                          
+	   <telephone>                   
+	   <intcode>64</intcode>          
+	   <loccode>9</loccode>           
+	   <number>4767061 </number>      
+	   </telephone>                    
+	   </telecom>                     
+	   </contact-info>              
+	   </business>                  
+	   </datatype>           
+	   </DATA-GROUP>        
+	   </EXTENSION>     -->    
+	   </ENTITY>       
+	   <ACCESS>       
+	   <all/>       
+	   </ACCESS>    
+	   <DISPUTES-GROUP>    
+	   <DISPUTES resolution-type="service" service="/index.jsp?pg=5" short-description="Contact Us" verification="">     
+	   <IMG src="/images/ipilogo.jpg" alt="FQGlobal Logo"/>        
+	   <REMEDIES>               
+	   <correct/>             
+	   </REMEDIES>          
+	   </DISPUTES>          
+	   </DISPUTES-GROUP>  
+	   <STATEMENT>
+   <CONSEQUENCE>
+     We record some information in order to serve your request 
+     and to secure and improve our Web site.
+   </CONSEQUENCE>
+   <PURPOSE><admin/><develop/></PURPOSE>
+   <RECIPIENT><ours/></RECIPIENT>
+   <RETENTION><stated-purpose/></RETENTION>
+   <DATA-GROUP>
+    <DATA ref="#dynamic.clickstream"/>
+    <DATA ref="#dynamic.http.useragent"/>
+   </DATA-GROUP>
+  </STATEMENT>
+	   </POLICY>  
+	   </POLICIES>

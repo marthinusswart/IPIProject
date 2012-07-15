@@ -1,0 +1,176 @@
+div.menubar{
+	position:relative;
+	left:0px;
+	padding-left:20px;
+	top:13px;
+	height:27px;
+	font-size:9pt;
+	
+	background: #215E21 url(../images/gradient2.gif) repeat-y top right;
+	border-top:1px solid #1a3a07;
+	border-bottom:1px solid #215E21;
+
+	/*
+	font-family:helvetica, arial, sans-serif;
+	width:500px; */
+}
+
+div.embeddedmenubar{
+	position:relative;
+	left:0px;
+	padding-left:20px;
+	top:0px;
+	height:27px;
+	font-size:9pt;
+
+	background: #464646 url(../images/gradient3.gif) repeat-y top right;
+	border-top:1px solid #1a3a07;
+	border-bottom:1px solid #215E21;
+
+	/*
+	font-family:helvetica, arial, sans-serif;
+	width:500px; */
+}
+
+div.mmenu{
+	position:relative;
+	float:left;
+	text-align:center;
+	margin:5px 0 0 2px;
+	border:1px solid #BD7;
+	background-color:#8A4;
+	color:#0A400A;
+	width:75px;
+	height:15px;
+	cursor:pointer;
+}
+
+div.embeddedmmenu{
+	position:relative;
+	float:left;
+	text-align:center;
+	margin:5px 0 0 2px;
+	border:1px solid #000000;
+	background-color:#A0A0A0;
+	color:#000000;
+	width:75px;
+	height:15px;
+	cursor:pointer;
+}
+
+div.loggedin
+{
+    width:150px;
+    height:15px;
+    position:relative;
+	float:left;
+	text-align:left;
+	margin:5px 0 0 2px;
+	/*border:1px solid #000000;*/
+	margin-left:35px;
+    color: #C0C0C0;
+}
+
+div.mmenuAlt{ font-size:8pt; }
+
+div.mmenuLonerL
+{
+	margin-right:35px;
+}
+
+div.mmenuLonerR
+{
+	margin-left:35px;
+}
+
+div.smenuMListener{
+	position:absolute;
+	top:15px;
+	visibility:hidden;
+	z-index: 999;
+	padding-top:2px;
+	width:200px;
+	left:-1px;
+}
+
+div.smenu{
+	z-index: 1000;
+	text-align:left;
+	background-color:#CF9;
+	color: #0A0A0A;
+	border:1px solid #8A4;
+}
+
+div.embeddedsmenu{
+	z-index: 1001;
+	text-align:left;
+	background-color:#C0C0C0;
+	color: #0A0A0A;
+	border:1px solid #000000;
+}
+
+div.smenuItem{
+	width:196px;
+	padding-left:2px;
+	font-weight:normal;
+}
+div.smenuDivider{
+	width:192px;
+	height:3px;
+	border-bottom:1px solid #666666;
+	padding:0 3px 3px 3px;
+	cursor:default;
+	color:#CF9;
+	font-size:5px;
+}
+div.embeddedsmenuDivider{
+	width:192px;
+	height:3px;
+	border-bottom:1px solid #666666;
+	padding:0 3px 3px 3px;
+	cursor:default;
+	color:#C0C0C0;
+	font-size:5px;
+}
+
+div.smenuDividerClear{
+	width:192px;
+	height:3px;
+	padding-bottom:2px;
+	cursor:default;
+	color:#CF9;
+	font-size:5px;
+}
+div.embeddedsmenuDividerClear{
+	width:192px;
+	height:3px;
+	padding-bottom:2px;
+	cursor:default;
+	color:#C0C0C0;
+	font-size:5px;
+}
+	
+
+/* IE HACKS */
+
+/* ..mouseover problems when no background-color*/
+/*
+* html div.menubar{
+	background-color:#FFF;
+}
+*/
+* html div.mmenu{
+	height:17px;
+	margin-top:4px;
+}
+
+* html div.smenuItem{ width:198px; }
+	
+* html div.smenuDivider{
+	width:198px;
+	height:3px;
+	padding-bottom:0;
+}
+* html div.smenuDividerClear{
+	padding-bottom:0;
+}	
