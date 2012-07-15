@@ -1,0 +1,17 @@
+insert into marketsegment (pkid, name) values (1, 'Arts');
+insert into marketsegment (pkid, name) values (2, 'Administration');
+insert into marketsegment (pkid, name) values (3, 'Aeronautics');
+insert into marketsegment (pkid, name) values (4, 'Business Interaction ');
+insert into marketsegment (pkid, name) values (5, 'Entrepreneur');
+insert into marketsegment (pkid, name) values (6, 'Entertainment');
+insert into marketsegment (pkid, name) values (7, 'General Culture');
+insert into marketsegment (pkid, name) values (8, 'Human Resources');
+insert into marketsegment (pkid, name) values (9, 'Marketing');
+insert into marketsegment (pkid, name) values (10, 'Mechanical');
+insert into marketsegment (pkid, name) values (11, 'Medical');
+insert into marketsegment (pkid, name) values (12, 'Outdoors');
+insert into marketsegment (pkid, name) values (13, 'Research');
+insert into marketsegment (pkid, name) values (14, 'Service');
+insert into marketsegment (pkid, name) values (15, 'Science');
+insert into marketsegment (pkid, name) values (16, 'Technology');
+insert into marketsegment (pkid, name) values (17, 'Training');
